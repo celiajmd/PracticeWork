@@ -1,0 +1,29 @@
+h1{
+  font-family: 'Zhi Mang Xing', cursive;
+  text-align: center;
+}
+
+.art{
+  margin:auto;
+}
+
+td{
+  height: 200px;
+  width: 150px;
+  border: 6px solid white;
+}
+
+#a{
+  background-color: #EAE0CC;
+}
+#b{
+  background-color: #C3B299;
+}
+#c{
+  background-color: #815355;
+}
+#d{
+  background-color: #D0939F;
+}
+#e{
+  background-color: #6B818C;
